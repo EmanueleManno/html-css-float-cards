@@ -30,21 +30,23 @@ main {
 }
 
 /*Card*/
-#card {
+.card {
     width: calc(100%/3 - 10px);
     color:white;
     border: 1px solid black;
     background-color: black;
     margin:5px;
+    float:left
 }
 
-.firstgroup,.secondgroup {
-    float:left;
-    padding: 10px;
-}
-
+/*Immagini*/
 img {
     width: 100px;
     height: 100px;
     float: left;
+}
+
+/*Email*/
+.email {
+    color: lightskyblue;
 }
