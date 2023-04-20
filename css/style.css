@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/*PROVO A VEDERE SE IL FILE CSS E' COLLEGATO*/
-body {
-    color:red;
+/*Header*/
+header {
+    text-align: center;
 }
