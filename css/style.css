@@ -31,8 +31,12 @@ main {
 
 /*Card*/
 #card {
-    max-width: 300px;
+    width: calc(100%/3);
     color:white;
     border: 1px solid black;
     background-color: black
+}
+
+.firstgroup,.secondgroup {
+    float:left;
 }
