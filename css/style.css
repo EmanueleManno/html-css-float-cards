@@ -9,3 +9,15 @@
 header {
     text-align: center;
 }
+
+/*pagetitle*/
+.pagetitle {
+    color: purple;
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+}
+
+/*Main*/
+main {
+    text-align: center;
+}
