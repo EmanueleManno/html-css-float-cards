@@ -31,12 +31,14 @@ main {
 
 /*Card*/
 #card {
-    width: calc(100%/3);
+    width: calc(100%/3 - 10px);
     color:white;
     border: 1px solid black;
-    background-color: black
+    background-color: black;
+    margin:5px;
 }
 
 .firstgroup,.secondgroup {
     float:left;
+    padding: 10px;
 }
