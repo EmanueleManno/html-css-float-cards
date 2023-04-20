@@ -36,7 +36,13 @@ main {
     border: 1px solid black;
     background-color: black;
     margin:5px;
-    float:left
+    float:left;
+    text-align: left;
+}
+
+/*Nomi*/
+h3 {
+    font-size: 30px;
 }
 
 /*Immagini*/
@@ -44,6 +50,7 @@ img {
     width: 100px;
     height: 100px;
     float: left;
+    padding-right: 10px;
 }
 
 /*Email*/
