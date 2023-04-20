@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+/*Body*/
+body {
+    max-width: 1000px;
+}
+
 /*Header*/
 header {
     text-align: center;
@@ -20,4 +25,9 @@ header {
 /*Main*/
 main {
     text-align: center;
+}
+
+/*Card*/
+.card {
+    border: 1px solid black;
 }
